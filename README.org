@@ -1,0 +1,6 @@
+* bug-czar
+Experiments in debugging as if you are a Russian Monarch!
+
+* Seriously
+
+I am just experimenting with LISP debuggers!
